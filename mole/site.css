@@ -1,0 +1,30 @@
+body {
+    background-color: #4fa81f;
+}
+
+/*#container {*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: space-around;*/
+    /*margin: 5em;*/
+/*}*/
+
+/*.row {*/
+    /*display: flex;*/
+    /*flex-direction: row;*/
+/*}*/
+
+/*.hole {*/
+     /*width:103px;*/
+   /*height:84px;*/
+   /*background-image:url('hole.jpg');*/
+   /*margin: auto;*/
+/*}*/
+
+#game {
+    width: 515px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
